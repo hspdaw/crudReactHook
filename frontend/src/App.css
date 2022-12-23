@@ -1,0 +1,62 @@
+body {
+    background: #141E30;
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);
+    background: linear-gradient(to right, #243B55, #141E30);
+}
+
+.site-card-wrapper {
+    max-width: 95%;
+    padding-top: 50px;
+    margin: auto;
+}
+.app-empty{
+    margin: auto;
+}
+.app-mar{
+    margin: auto !important;
+}
+
+.app-card {
+    width: 300px;
+    margin: 5px;
+}
+
+.ant-icons {
+    font-size: 20px;
+    margin: 5px;
+}
+
+.app-input:focus {
+    outline: none;
+}
+
+.app-input {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 4px 11px;
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.5;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+}
+
+.app-submit {
+    margin-top: 20px;
+    color: #fff;
+    background-color: #1677ff;
+    box-shadow: 0 2px 0 rgb(5 145 255 / 10%);
+    font-size: 14px;
+    height: 32px;
+    padding: 4px 15px;
+    border-radius: 6px;
+    font-weight: 400;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+.app-submit:hover {
+    background-color: #749ace;
+}
