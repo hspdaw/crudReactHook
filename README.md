@@ -5,7 +5,7 @@ This project was developed as follows:
 frontend: reactjs hooks - antD (for components design)
 ## Available Scripts
 
-In the project directory, you can run:
+In the frontend directory, you can run:
 
 ### `npm start`
 
@@ -18,12 +18,12 @@ Open (http://localhost:3000) to view it in the browser.
 backend: nodejs - expressjs
 ## Available Scripts
 
-In the project directory, you can run:
+In the backend directory, you can run:
 
 ### `nodemon src/index.js`
 
 Runs the server in port 4000<br>
-If nodemos dosent work you have to run:
+If nodemon dosent work you have to run:
 ### `npm install -g nodemon --save-dev`
 And remember to install the bbdd
 
