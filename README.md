@@ -23,6 +23,9 @@ In the project directory, you can run:
 ### `nodemon src/index.js`
 
 Runs the server in port 4000<br>
+If nodemos dosent work you have to run:
+### `npm install -g nodemon --save-dev`
+And remember to install the bbdd
 
 
 
