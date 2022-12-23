@@ -26,6 +26,11 @@ Runs the server in port 4000<br>
 
 
 
+## Dont forget to run
+### `npm install`
+in both cases frontend & backend
+
+
 
 BBDD: sql postgresql
 ### bbdd.sql
